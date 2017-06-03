@@ -1,5 +1,5 @@
 # Reaction_Diffusion_Polytech
-A school group project concerning reaction diffusion systems and creation of patterns. The work is done by Paola Allegrini, Claire Froessel and Mahshid Khezri Nejad. The guiding professor is Chiara Nardoni.
+A school group project concerning reaction diffusion systems and creation of patterns. The work is done by Paola Allegrini, Claire Froessel and Mahshid Khezri Nejad. The guiding professor is Chiara Nardoni. Licensed under Beerware.
 
 This repository consists of matlab codes that are to study reaction-only systems, systems with diffusion and Gierer-Meinhardt model which is a reaction-diffusion system.
 
