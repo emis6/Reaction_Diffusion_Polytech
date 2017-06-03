@@ -3,6 +3,7 @@ A school group project concerning reaction diffusion systems and creation of pat
 
 This repository consists of matlab codes that are to study reaction-only systems, systems with diffusion and Gierer-Meinhardt model which is a reaction-diffusion system.
 
+The 'reac_dif.m' file is to show a Gierer-Meinhardt model.
 There are two directories: Reaction , Diffusion.
 In 'Reaction' reaction-only systems are studied and 'Diffusion' diffusion only systems are studied.
 
