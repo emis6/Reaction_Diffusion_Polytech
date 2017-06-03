@@ -1,0 +1,11 @@
+Les fichiers champ_matrice , script_ch_vp_A et valpropres dans ce répertoire sont pour étudier un système avec la matric A=[a, b; c, d] 2x2.
+Dans le script il y a plusieurs cas stables/instable mais en commentaires. Vous pouvez les descommenter et voir differents cas.
+Le fichier champ_matrice contient les lignes du code qui présent le système graphiquement.
+Le fichier valpropres calcul les valeurs propres d'une matrice donnée et détermine si la matrice correspond d'un système stable ou instable.
+
+
+Le fichier Lokta_Volterra correspond à voir le stabilité d'un système de Lotka Volterra qui est de forme: x'=ax(1-by)
+y'=cy(x-d)
+Vous pouvez changer a, b, c, d pour voir comment le système change.
+
+Le fichier pendul correspond à mettre en oeuvre stabilité/instabilité d'un pendule. l'équation d'un pendule simple est étudié.

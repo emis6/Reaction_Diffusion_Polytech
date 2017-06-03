@@ -1,0 +1,2 @@
+Le fichier diffusion3 correspond à la diffusion de chaleur avec une méthode explicite.
+Dans le fichier script_cran_nic_figures diffusion de la chaleur est implementé avec une méthode implicit: crank nicholson. Les deux méthodes sont ensuites comparés en figure 1. les roses sont la solution exacte. Dans les figures 2 et 3 la diffusion de chaleur avec Crank Nicholson est presenté avec des couleurs.
