@@ -1,4 +1,3 @@
-
 %equations de Lokta-Volterra
 %x'=ax(1-by)
 %y'=cy(x-d)

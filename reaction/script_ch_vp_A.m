@@ -1,3 +1,4 @@
+%To see different cases uncomment
 %definition de la matrice pour n=2
 %cas stable : 
 a=1;b=6;c=-3;d=-5; %Re(lambda)<0 stable 

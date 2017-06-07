@@ -1,6 +1,7 @@
 function u =diffusion3(xmax,tmax,gamma,alpha,beta,nt,nx)
-%UNTITLED Summary of this function goes here
-%   Detailed explanation goes here
+%Finds the solution of a heat equation with an explicit method%
+
+%initializing the variables:
 delta_x=xmax/nx;
 delta_t=tmax/nt;
 mu=gamma*delta_t/(delta_x*delta_x);

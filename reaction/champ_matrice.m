@@ -1,6 +1,4 @@
 function Y=champ_matrice(a,b,c,d)
-    
-
 
 A=[a b;c d];
 [val, stab]=valpropres(A)
